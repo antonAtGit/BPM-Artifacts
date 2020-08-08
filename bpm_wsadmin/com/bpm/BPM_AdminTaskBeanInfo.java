@@ -1,5 +1,5 @@
 // https://www.ibm.com/support/knowledgecenter/en/SSCKBL_8.5.5/com.ibm.websphere.javadoc.doc/web/apidocs/com/ibm/websphere/management/cmdframework/package-summary.html
-package com.salientprocess.bpm;
+package com.bpm;
 
 import java.beans.MethodDescriptor;
 import java.beans.ParameterDescriptor;

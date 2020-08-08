@@ -2,7 +2,7 @@
  * Expose the ability to perform WebSphere Application Server (WAS) administrative
  * commands as a callable BPM service class.
  */
-package com.salientprocess.bpm;
+package com.bpm;
 
 import java.util.ArrayList;
 import java.util.Collection;
